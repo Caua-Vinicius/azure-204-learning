@@ -1,0 +1,63 @@
+## User-specific files
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files (for debugging)
+debug/
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+[Aa]rmeabi-v7a/
+[Aa]rmeabi/
+[Aa]arch/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## .NET Framework
+bin/
+obj/
+
+## ASP.NET
+wwwroot/
+
+## Rider
+.idea/
+
+## User-specific files
+.vscode/
+.vs/
+
+## Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+## NUnit
+*.TestResult.xml
+TestResult.xml
